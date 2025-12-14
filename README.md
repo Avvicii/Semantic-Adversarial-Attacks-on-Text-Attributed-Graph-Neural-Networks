@@ -1,0 +1,2 @@
+# Evaluating-the-Robustness-of-Graph-Neural-Networks-Against-Text-Based-Adversarial-Attacks
+This repository contains the code and experimental pipeline for studying semantic-preserving adversarial attacks on text-attributed graph neural networks (GNNs). We evaluate the robustness of GraphSAGE models on the OGBN-ArXiv benchmark under paraphrase and back-translation attacks applied exclusively at test time.
